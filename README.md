@@ -1,7 +1,7 @@
-### Olá sou Bruna Leonel iniciante em programação
+### Hello Word!
 
 
-- 🌱 Estou estudando Engenharia de Software
+- 🌱 Estudo Engenharia de Software/Programação.
 - 😄 Pronomes: ela/dela
 
 -->
