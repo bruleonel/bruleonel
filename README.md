@@ -8,7 +8,7 @@
 - 😄 Pode me chamar de Bru;
 - 👨‍👩‍👧 Sou casada e tenho uma filha;
 - 📺 Amo séries e filmes!
-- 🚴🏽‍♀️ Sou ciclistas na horas vags.
+- 🚴🏽‍♀️ Sou ciclistas nas horas vags.
 
 - <a href="https://bruleonel.github.io/portfolio/" target="_blank">Meu Portifólio</a>
 
