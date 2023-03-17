@@ -1,11 +1,16 @@
 ### Olá mundo, sejam bem vindos ao meu repositório!
 
- Puxe uma cadeira pegue um caézinho e sinta-se em casa...
-
-
+ Puxe uma cadeira pegue um cafézinho e sinta-se em casa...
+ 
+ <img height="180em" src="https://user-images.githubusercontent.com/104650333/225998580-2c796c13-9c97-4cad-929a-bd184bd63df4.gif"/>
 
 - 💻 Estudo Engenharia de Software/Programação.
-- 😄 Pronomes: ela/dela
+- 😄 Pode me chamar de Bru;
+- 👨‍👩‍👧 Sou casada e tenho uma filha;
+- 📺 Amo séries e filmes!
+- 🚴🏽‍♀️ Sou ciclistas na horas vags.
+
+- <a href="https://bruleonel.github.io/portfolio/" target="_blank">Meu Portifólio</a>
 
 -->
 <div align="center">
