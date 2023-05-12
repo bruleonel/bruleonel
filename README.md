@@ -4,6 +4,7 @@
  
  <img height="180em" src="https://user-images.githubusercontent.com/104650333/225998580-2c796c13-9c97-4cad-929a-bd184bd63df4.gif"/>
 
+- 🔎 Atuo como QA
 - 💻 Estudo Engenharia de Software/Programação.
 - 😄 Pode me chamar de Bru;
 - 👨‍👩‍👧 Sou casada e tenho uma filha;
