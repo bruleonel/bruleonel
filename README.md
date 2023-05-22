@@ -1,8 +1,7 @@
 ### Olá mundo, sejam bem vindos ao meu repositório!
-
- Puxe uma cadeira pegue um cafézinho e sinta-se em casa...
  
- <img height="180em" src="https://user-images.githubusercontent.com/104650333/225998580-2c796c13-9c97-4cad-929a-bd184bd63df4.gif"/>
+![ezgif com-video-to-gif (1)](https://github.com/bruleonel/curso-ingles/assets/104650333/1b31c8b6-171a-4d32-aa61-c65c5bc544e7)
+
 
 - 🔎 Atuo como QA
 - 💻 Estudo Engenharia de Software/Programação.
