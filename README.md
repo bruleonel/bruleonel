@@ -1,6 +1,6 @@
 ### Olá mundo, sejam bem vindos ao meu repositório!
  
-![ezgif com-video-to-gif (1)](https://github.com/bruleonel/curso-ingles/assets/104650333/1b31c8b6-171a-4d32-aa61-c65c5bc544e7)
+![Design sem nome (1)](https://github.com/bruleonel/alura-studies/assets/104650333/ed55733f-91a9-4c27-b7f5-1b7322eab3dc)
 
 
 - 🔎 Atuo como QA
