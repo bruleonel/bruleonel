@@ -1,7 +1,4 @@
 ### Olá mundo, sejam bem vindos ao meu repositório!
- 
-![Design sem nome (1)](https://github.com/bruleonel/alura-studies/assets/104650333/ed55733f-91a9-4c27-b7f5-1b7322eab3dc)
-
 
 - 🔎 Atuo como QA
 - 💻 Estudo Engenharia de Software/Programação.
